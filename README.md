@@ -9,9 +9,9 @@ Implementação de uma API com:
 
 ## **Detalhes da implementação:** 
 
-1.  Criado projeto **DSR-Globo.Service** para implementação da tradução
-    1.  Criação da interface IMorseTranslatorService, contendo o contrato a ser implementado
-    2.  Criação da classe MorseTranslatorService, onde se encontra de forma estática a conversão do Código Morse através de um array de Dictionary.
+1.  Criado projeto **DSR-Globo.Service** para implementação da tradução:
+    1.  Criada a interface IMorseTranslatorService, contendo o contrato a ser implementado;
+    2.  Criada a classe MorseTranslatorService com a implementação da Interface e realizando a conversão do código Morse;
 2.  Criado projeto **DSR-Globo.Tests** para testar a implementaão de MorseTranslatorService.
     1.  Validar se o algoritmo converte corretamente as frases:
         1.  HEY JUDE
