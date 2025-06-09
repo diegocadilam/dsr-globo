@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\work\\projetos\\desafios\\dsr-globo\\DSR-Globo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1BAA033-7168-4124-B760-FC2C75DCFE2D}|DSR-Globo.Tests\\DSR-Globo.Tests.csproj|c:\\work\\projetos\\desafios\\dsr-globo\\dsr-globo\\dsr-globo.tests\\morsetranslatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1BAA033-7168-4124-B760-FC2C75DCFE2D}|DSR-Globo.Tests\\DSR-Globo.Tests.csproj|solutionrelative:dsr-globo.tests\\morsetranslatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82B0DA98-2773-4974-A928-5B4911E818C8}|DSR-Globo\\DSR-Globo.csproj|c:\\work\\projetos\\desafios\\dsr-globo\\dsr-globo\\dsr-globo\\controllers\\morsecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B0DA98-2773-4974-A928-5B4911E818C8}|DSR-Globo\\DSR-Globo.csproj|solutionrelative:dsr-globo\\controllers\\morsecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E3139A-FBDE-415F-BF38-E985A00DA6B7}|DSR-Globo.Services\\DSR-Globo.Services.csproj|c:\\work\\projetos\\desafios\\dsr-globo\\dsr-globo\\dsr-globo.services\\contracts\\imorsetranslatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E3139A-FBDE-415F-BF38-E985A00DA6B7}|DSR-Globo.Services\\DSR-Globo.Services.csproj|solutionrelative:dsr-globo.services\\contracts\\imorsetranslatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B0DA98-2773-4974-A928-5B4911E818C8}|DSR-Globo\\DSR-Globo.csproj|c:\\work\\projetos\\desafios\\dsr-globo\\dsr-globo\\dsr-globo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B0DA98-2773-4974-A928-5B4911E818C8}|DSR-Globo\\DSR-Globo.csproj|solutionrelative:dsr-globo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{56E3139A-FBDE-415F-BF38-E985A00DA6B7}|DSR-Globo.Services\\DSR-Globo.Services.csproj|c:\\work\\projetos\\desafios\\dsr-globo\\dsr-globo\\dsr-globo.services\\morsetranslatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56E3139A-FBDE-415F-BF38-E985A00DA6B7}|DSR-Globo.Services\\DSR-Globo.Services.csproj|solutionrelative:dsr-globo.services\\morsetranslatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1BAA033-7168-4124-B760-FC2C75DCFE2D}|DSR-Globo.Tests\\DSR-Globo.Tests.csproj|c:\\work\\projetos\\desafios\\dsr-globo\\dsr-globo\\dsr-globo.tests\\morsetranslatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1BAA033-7168-4124-B760-FC2C75DCFE2D}|DSR-Globo.Tests\\DSR-Globo.Tests.csproj|solutionrelative:dsr-globo.tests\\morsetranslatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 117,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +42,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMorseTranslatorService.cs",
+              "DocumentMoniker": "C:\\work\\projetos\\desafios\\dsr-globo\\DSR-Globo\\DSR-Globo.Services\\Contracts\\IMorseTranslatorService.cs",
+              "RelativeDocumentMoniker": "DSR-Globo.Services\\Contracts\\IMorseTranslatorService.cs",
+              "ToolTip": "C:\\work\\projetos\\desafios\\dsr-globo\\DSR-Globo\\DSR-Globo.Services\\Contracts\\IMorseTranslatorService.cs",
+              "RelativeToolTip": "DSR-Globo.Services\\Contracts\\IMorseTranslatorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:05:54.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\work\\projetos\\desafios\\dsr-globo\\DSR-Globo\\DSR-Globo\\Program.cs",
+              "RelativeDocumentMoniker": "DSR-Globo\\Program.cs",
+              "ToolTip": "C:\\work\\projetos\\desafios\\dsr-globo\\DSR-Globo\\DSR-Globo\\Program.cs",
+              "RelativeToolTip": "DSR-Globo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:02:44.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MorseController.cs",
+              "DocumentMoniker": "C:\\work\\projetos\\desafios\\dsr-globo\\DSR-Globo\\DSR-Globo\\Controllers\\MorseController.cs",
+              "RelativeDocumentMoniker": "DSR-Globo\\Controllers\\MorseController.cs",
+              "ToolTip": "C:\\work\\projetos\\desafios\\dsr-globo\\DSR-Globo\\DSR-Globo\\Controllers\\MorseController.cs*",
+              "RelativeToolTip": "DSR-Globo\\Controllers\\MorseController.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwBAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:02:26.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MorseTranslatorTests.cs",
               "DocumentMoniker": "C:\\work\\projetos\\desafios\\dsr-globo\\DSR-Globo\\DSR-Globo.Tests\\MorseTranslatorTests.cs",
               "RelativeDocumentMoniker": "DSR-Globo.Tests\\MorseTranslatorTests.cs",
@@ -43,13 +94,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MorseTranslatorService.cs",
               "DocumentMoniker": "C:\\work\\projetos\\desafios\\dsr-globo\\DSR-Globo\\DSR-Globo.Services\\MorseTranslatorService.cs",
               "RelativeDocumentMoniker": "DSR-Globo.Services\\MorseTranslatorService.cs",
               "ToolTip": "C:\\work\\projetos\\desafios\\dsr-globo\\DSR-Globo\\DSR-Globo.Services\\MorseTranslatorService.cs",
               "RelativeToolTip": "DSR-Globo.Services\\MorseTranslatorService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAcAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T16:48:00.849Z",
               "EditorCaption": ""

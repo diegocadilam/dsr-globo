@@ -1,10 +1,11 @@
-﻿using System;
+﻿using DSR_Globo.Services.Contracts;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace DSR_Globo.Services
 {
-    public class MorseTranslatorService
+    public class MorseTranslatorService: IMorseTranslatorService
     {
         private static readonly Dictionary<string, char> MorseMap = new Dictionary<string, char>()
         {
