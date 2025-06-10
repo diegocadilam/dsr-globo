@@ -15,9 +15,14 @@ namespace DSR_Globo.Controllers
         }
 
         [HttpGet("/Translate")]
-        public String Get(string morseCode)
+        public ActionResult Get(string morseCode)
         {
-            return _morseTranslatorService.Translate(morseCode);
+            if(string.IsNullOrEmpty(morseCode))
+                return BadRequest("Informe um código Morse.");
+
+            return Ok(_morseTranslatorService.Translate(morseCode));
+
+
         }
     }
 }
