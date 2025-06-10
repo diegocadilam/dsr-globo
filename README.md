@@ -22,6 +22,7 @@ Implementação de uma API com:
 
 # Instruções para rodar o Console
 `cd DSR-Globo/DSR-Globo.Console`
+
 `dotnet run ".... . -.-- / .--- ..- -.. ."`
 
 # Instruções para rodar o API
