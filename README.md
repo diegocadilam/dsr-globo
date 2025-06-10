@@ -18,9 +18,13 @@ Implementação de uma API com:
         2.  GLOBO E VC TUDO A VE
 3.  Criado o projeto **DSR-Globo** afim de expor a API, com parametro via QueryParams, para tradução do código Morse.
     1.  Gerada a injeção de dependência da Interface IMorseTranslatorService e consumindo o serviço via Controller.
+4.  Criado o projeto **DSR-Globo.Console** afim de expor um console com parametro via CLI, para tradução do código Morse.    
 
-# Instruções para rodar o programa
+# Instruções para rodar o Console
+`cd DSR-Globo/DSR-Globo.Console`
+`dotnet run ".... . -.-- / .--- ..- -.. ."`
 
+# Instruções para rodar o API
 `dotnet run --project DSR-Globo/DSR-Globo.csproj --urls "http://localhost:5000"`
 
 Para utilizar a API:
