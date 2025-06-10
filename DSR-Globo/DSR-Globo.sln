@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSR-Globo.Tests", "DSR-Glob
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSR-Globo.Services", "DSR-Globo.Services\DSR-Globo.Services.csproj", "{56E3139A-FBDE-415F-BF38-E985A00DA6B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSR-Globo.Console", "DSR-Globo.Console\DSR-Globo.Console.csproj", "{050901C1-77BF-485D-9628-4ECCDA445A20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{56E3139A-FBDE-415F-BF38-E985A00DA6B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56E3139A-FBDE-415F-BF38-E985A00DA6B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56E3139A-FBDE-415F-BF38-E985A00DA6B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{050901C1-77BF-485D-9628-4ECCDA445A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{050901C1-77BF-485D-9628-4ECCDA445A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{050901C1-77BF-485D-9628-4ECCDA445A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{050901C1-77BF-485D-9628-4ECCDA445A20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
