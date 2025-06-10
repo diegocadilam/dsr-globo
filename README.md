@@ -23,7 +23,7 @@ Implementação de uma API com:
 # Instruções para rodar o Console
 `cd DSR-Globo/DSR-Globo.Console`
 
-`dotnet run ".... . -.-- / .--- ..- -.. ."`
+`dotnet run --project=DSR-Globo.Console.csproj ".... . -.-- / .--- ..- -.. ."`
 
 # Instruções para rodar o API
 `dotnet run --project DSR-Globo/DSR-Globo.csproj --urls "http://localhost:5000"`
